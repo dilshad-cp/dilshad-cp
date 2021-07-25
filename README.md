@@ -1,7 +1,7 @@
 ### Hello World 👋
 Fullstack software developer - 🔭 Working on multiple projects using PHP and Golang
 <br><br>🌱 Learning to build dockerized production applications<br><br>
-<br>## Connect with me<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dilshadcp)<br>
+<br>## Connect<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dilshadcp)<br>
 <br>## Skills<br>
 <img align="left" alt="php" src="https://img.shields.io/badge/php-%234F5B93.svg?&style=for-the-badge&logo=php&logoColor=white" /><img align="left" alt="laravel" src="https://img.shields.io/badge/laravel-%23f52d20.svg?&style=for-the-badge&logo=laravel&logoColor=white" /><img align="left" alt="symfony" src="https://img.shields.io/badge/symfony-black.svg?&style=for-the-badge&logo=symfony&logoColor=white" /><img align="left" alt="golang" src="https://img.shields.io/badge/go-%233bacd7.svg?&style=for-the-badge&logo=go&logoColor=white" /><img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/docker-%233893ef.svg?&style=for-the-badge&logo=docker&logoColor=white" />
