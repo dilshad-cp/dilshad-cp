@@ -1,7 +1,7 @@
 ### Hello World 👋
 Fullstack software engineer - 🔭 Working on multiple projects using PHP and Golang
 - 🌱 Learning to build dockerized applications
-<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dilshadcp)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/4152424/dilshad-cp)<br>
+<br>## Connect with me<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dilshadcp)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/4152424/dilshad-cp)<br>
 <br>## Expertise
 <img align="left" alt="php" src="https://img.shields.io/badge/go%20-%2320232a.svg?&style=for-the-badge&logo=go&logoColor=%2361DAFB" />
 <img align="left" alt="laravel" src="https://img.shields.io/badge/laravel-%23f52d20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
